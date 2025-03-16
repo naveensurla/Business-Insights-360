@@ -16,7 +16,6 @@ Please find the sectional links for the project below:
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
 - [](#_tools_used:)[About the Dataset](https://github.com/5ifar/Business_Insights_360/blob/main/README.md#about-the-dataset)
- - [About the Dataset](#about-the-dataset)
   - [Data Sources](#data-sources)
   - [Data Integrity](#data-integrity)
 - [](#_data_integrity:)[Data Model](#_data_model:)
