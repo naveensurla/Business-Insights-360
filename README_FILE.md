@@ -91,12 +91,9 @@ ROCCC Evaluation:
 - Citation: HIGH - Official citation/reference available.
 -----
 # <a name="_data_model:"></a>**Data Model:**
-![Data Model](https://raw.githubusercontent.com/naveensurla/Business_Insights_360/main/Data%20Model/Data_Model/DM-1.png)
-
-![Data Model](https://raw.githubusercontent.com/naveensurla/Business_Insights_360/main/Data%20Model/Data_Model/DM-2.png)
-
-![Data Model](https://raw.githubusercontent.com/naveensurla/Business_Insights_360/main/Data%20Model/Data_Model/DM-3.png)
-
+![Data Model](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Data%20Model/Data_Model/DM-1.png)
+![Data Model](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Data%20Model/Data_Model/DM-2.png)
+![Data Model](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Data%20Model/Data_Model/DM-3.png)
 
 -----
 # <a name="_project_implementation:"></a><a name="_bi_360_report"></a>**BI 360 Report Overview:**
