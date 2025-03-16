@@ -18,7 +18,7 @@ Please find the sectional links for the project below:
 - [](#_tools_used:)[About the Dataset](#about-the-dataset)
   - [Data Sources](#data-sources)
   - [Data Integrity](#data-integrity)
-- [](#_data_integrity:)[Data Model](#_data_model:)
+- [](#_data_integrity)[Data Model](#_data_model)
 - [BI 360 Report Overview](#_bi_360_report)
 - [](#_bi_360_report)[Conclusion](#_conclusion:)
 
