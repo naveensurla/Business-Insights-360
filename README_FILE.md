@@ -144,5 +144,5 @@ The Power BI Report project for AtliQ Hardware provided a comprehensive, data-dr
 
 The insights gained from this analysis revealed areas of interest, such as robust sales performance and precise forecast accuracy, as well as areas of opportunities for improvement in weak profit margins and supply chain efficiency. Through interactive visualizations and detailed metrics, the dashboard empowers Atliq Hardware's leadership to make informed, strategic decisions that align with their business goals.
 
-
-
+## 🔗 PBIX File Download  
+[📂 Download the PBIX File](https://drive.google.com/file/d/106LaFsynHQkziELXobbD7F4dHiY7YvA8/view?usp=drive_link)
