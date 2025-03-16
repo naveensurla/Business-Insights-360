@@ -101,7 +101,7 @@ ROCCC Evaluation:
 
 Central navigation hub with easy access to all views, complete with support and information manual.
 
-![](Aspose.Words.a7319c2b-1d55-4471-83c2-e42ad2caffa0.004.png)
+![Home Page](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Report_Details/1.Home%20Page.jpg)
 
 **II. Finance View:**
 
