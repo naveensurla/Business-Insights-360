@@ -1,6 +1,6 @@
 ﻿**ATLIQ Business Insights 360**
 
-This repository serves as my documentation for the AtliQ Hardwares Business Insights 360 - Power BI Project. It was created as a self-learning project for the course: [Get Job Ready: Power BI Data Analytics for All Levels 4.0](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by [Codebasics](https://codebasics.io/).
+This repository serves as my documentation for the AtliQ Hardwares Business Insights 360 - Power BI Project. It was created as a self-learning project for the course: [Get Job Ready: Power BI Data Analytics for All Levels 4.0]([https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project](https://codebasics.io/)) by [Codebasics](https://codebasics.io/).
 
 The entire project has been implemented using Microsoft Power BI Desktop 2.140.1476.0 and published on Microsoft Power BI Service.
 
