@@ -15,7 +15,7 @@ Please find the sectional links for the project below:
 - [](https://app.powerbi.com/view?r=eyJrIjoiN2NjY2U5NzQtZDliOC00ZmI0LWIxZDAtZTY2N2YwNjkxYTI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) [Introduction to AtliQ Hardware](#_introduction_to_atliq)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
-- [](#_tools_used:)[About the Dataset](https://github.com/5ifar/Business_Insights_360/blob/main/README.md#about-the-dataset)
+- [](#_tools_used:)[About the Dataset](#about-the-dataset)
   - [Data Sources](#data-sources)
   - [Data Integrity](#data-integrity)
 - [](#_data_integrity:)[Data Model](#_data_model:)
