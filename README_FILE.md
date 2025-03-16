@@ -107,31 +107,36 @@ Central navigation hub with easy access to all views, complete with support and 
 
 Enhances financial planning and cost control, featuring a P&L Statement, Net Sales Trend and Breakdown by Products/Customers and more.
 
-![](Aspose.Words.a7319c2b-1d55-4471-83c2-e42ad2caffa0.005.png)
+![Finance Page](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Report_Details/2.Finance%20Page.jpg)
+
 
 **III. Sales View:**
 
 Focuses on boosting sales revenue and tracking customer performance, including Gross Margin % Variance across Customers/Products and more.
 
-![](Aspose.Words.a7319c2b-1d55-4471-83c2-e42ad2caffa0.006.png)
+![Sales Page](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Report_Details/3.Sales%20Page.jpg)
+
 
 **IV. Marketing View:**
 
 Elevates brand visibility and evaluates marketing campaign ROI, with insights into Segment Performance, Net Profit % Variance across Regions and more.
 
-![](Aspose.Words.a7319c2b-1d55-4471-83c2-e42ad2caffa0.007.png)
+![Marketing Page](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Report_Details/4.Marketing%20Page.jpg)
+
 
 **V. Supply Chain View:**
 
 Optimizes inventory management and demand forecasting, featuring trends in Forecast Accuracy and Inventory Stock Risk by Customers/Products.
 
-![](Aspose.Words.a7319c2b-1d55-4471-83c2-e42ad2caffa0.008.png)
+![Supply Chain Page](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Report_Details/5.Supply%20Chain%20Page.jpg)
+
 
 **VI. Executive View:**
 
 Provides a high-level overview of organizational performance for top AtliQ executives and senior management, showcasing business KPIs, Revenue Contributions by Division/Channel, Top Customers & Products, AtliQ's Market Share Trend and more.
 
-![](Aspose.Words.a7319c2b-1d55-4471-83c2-e42ad2caffa0.009.png)
+![Executive Page](https://raw.githubusercontent.com/naveensurla/Business-Insights-360/main/Report_Details/6.Executive%20Page.jpg)
+
 
 -----
 # <a name="_conclusion:"></a>**Conclusion:**
